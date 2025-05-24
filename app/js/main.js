@@ -1,0 +1,1 @@
+console.log('Stationery customer site loaded');
